@@ -6,7 +6,7 @@
 #    By: anasinda <anasinda@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/11/06 11:18:32 by anasinda          #+#    #+#              #
-#    Updated: 2025/12/27 05:44:34 by anasinda         ###   ########.fr        #
+#    Updated: 2025/12/27 06:03:35 by anasinda         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -44,3 +44,5 @@ re: fclean all
 	@echo "\n"
 
 .PHONY: clean fclean re
+
+.SECONDARY: $(OBJ) $(OBJ_BONUS)
