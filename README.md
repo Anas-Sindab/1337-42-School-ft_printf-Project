@@ -6,7 +6,7 @@
 [![42 Badge](https://img.shields.io/badge/ft__printf-00babc?style=for-the-badge&logo=42)](https://42.fr)
 ![Makefile](https://img.shields.io/badge/Makefile-2C2D30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/programming-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 > A complete reimplementation of the printf function from scratch, handling multiple format specifiers and variadic arguments.
 
